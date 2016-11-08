@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EspressoDemo</string>
+
+    <string name="success_message">Login Successful</string>
+    <string name="failure_message">Login Failed</string>
+    <string name="validate">Validate</string>
+
+    <string-array name="background_colors">
+        <item>Color 1</item>
+        <item>Color 2</item>
+        <item>Color 3</item>
+        <item>Color 4</item>
+    </string-array>
+</resources>
